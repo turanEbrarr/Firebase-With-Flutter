@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405087099056",
+    "project_id": "firebase-giris",
+    "storage_bucket": "firebase-giris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405087099056:android:b4891b84633a086f744375",
+        "android_client_info": {
+          "package_name": "com.dh.firebase_giris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405087099056-rh9lltvvk0krdn26otjsa18ablsr6bcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2trxk5sYgtmX4FkvduNKpeMklyr3tfd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405087099056-rh9lltvvk0krdn26otjsa18ablsr6bcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
